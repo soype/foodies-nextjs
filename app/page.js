@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 import classes from './page.module.css';
 
-import ImageSlideshow from '@/components/headers/slideshow';
+import ImageSlideshow from '@/components/slideshow';
 
 export default function Home() {
   return (
@@ -22,7 +22,7 @@ export default function Home() {
           </div>
         </div>
       </header>
-      <main>
+      <main>  
         <section className={classes.section}>
           <h2>How it works</h2>
           <p>

@@ -22,6 +22,7 @@ const MainHeader = () => {
           <li>
             <NavLink href="/meals">Browse Meals</NavLink>
             <NavLink href="/community">Foodies Community</NavLink>
+            <NavLink href="/login">Login</NavLink>
           </li>
         </ul>
       </nav>

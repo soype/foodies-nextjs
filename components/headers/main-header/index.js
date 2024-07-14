@@ -11,7 +11,7 @@ const MainHeader = () => {
 
   return (
     <>
-    <MainHeaderBackground />
+    {/* <MainHeaderBackground /> */}
     <header className={classes.header}>
       <Link className={classes.logo} href="/">
         <Image src={logoImage} priority alt="Foodies Logo" /> - NextLevel Food

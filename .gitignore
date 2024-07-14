@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#db initialyzsers
+initdb.js
+initUsers.js
+
+#db
+meals.db
